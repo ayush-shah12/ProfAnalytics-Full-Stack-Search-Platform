@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Rate My Professors Extension (Any University, Any Website)",
-    "version": "4.0",
+    "version": "4.1",
     "description": "Instantly view professor ratings and reviews from RateMyProfessors—any university, any website, right in your browser.",
     "permissions": ["contextMenus"],
     "action": {
